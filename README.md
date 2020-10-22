@@ -17,7 +17,7 @@ I am Jigyansu. I am a textile undergraduate student at IIT Delhi, who loves prog
     **Tools used:** `Python`, `Numpy`, `Pandas`, `Matplotlib`, `Scikit-learn`
 
 ### Current Goals:
-   - Be an -International Grandmaster at Codeforces.
+   - Be an **International Grandmaster** at Codeforces.
    - Contribute more in projects.
 
 ### Informative Repositories:
@@ -25,11 +25,6 @@ I am Jigyansu. I am a textile undergraduate student at IIT Delhi, who loves prog
    - [Shortest Path Algorithms Visualizer](https://github.com/Jigyansu-Nanda/Shortest-Path-Algorithms-Visualizer)
 
 ### Connect with me:
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/email.svg" />][Email]
-
-<br />
-[Twitter]: https://twitter.com/jigyansu_nanda
-[LinkedIn]: https://jigyansu-nanda.github.io/portfolio/www.linkedin.com/in/jigyansu-nanda
-[Email]: nandajigyansu@gmail.com
+[Twitter](https://twitter.com/jigyansu_nanda)
+[LinkedIn](https://jigyansu-nanda.github.io/portfolio/www.linkedin.com/in/jigyansu-nanda)
+[Email](nandajigyansu@gmail.com)
