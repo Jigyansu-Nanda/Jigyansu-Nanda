@@ -25,6 +25,6 @@ I am Jigyansu. I am a textile undergraduate student at IIT Delhi, who loves prog
    - [Shortest Path Algorithms Visualizer](https://github.com/Jigyansu-Nanda/Shortest-Path-Algorithms-Visualizer)
 
 ### Connect with me:
-[Twitter](https://twitter.com/jigyansu_nanda)
-[LinkedIn](https://jigyansu-nanda.github.io/portfolio/www.linkedin.com/in/jigyansu-nanda)
+[Twitter](https://twitter.com/jigyansu_nanda) </br>
+[LinkedIn](https://jigyansu-nanda.github.io/portfolio/www.linkedin.com/in/jigyansu-nanda) </br>
 [Email](nandajigyansu@gmail.com)
